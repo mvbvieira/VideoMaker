@@ -1,0 +1,19 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Projeto OpenSource para fazer captura de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvbvieira/VideoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvbvieira/VideoMaker/issues"
+  },
+  "homepage": "https://github.com/mvbvieira/VideoMaker#readme"
+}
