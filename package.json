@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mvbvieira/VideoMaker/issues"
   },
-  "homepage": "https://github.com/mvbvieira/VideoMaker#readme"
+  "homepage": "https://github.com/mvbvieira/VideoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
